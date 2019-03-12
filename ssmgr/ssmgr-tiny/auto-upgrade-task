@@ -1,7 +1,6 @@
 {
   "url": "https://raw.githubusercontent.com/siriusfinex/api/master/ssmgr/ssmgr-tiny/auto-upgrade-task",
-  "data": 
-    "type": "text",
-    "id": "1",
-    "value": "0"
-}
+  "type": "text"
+  "id": 1,
+  "key": "0",
+} 
