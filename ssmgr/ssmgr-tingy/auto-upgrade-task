@@ -1,1 +1,11 @@
-  "url": "https://api.github.com/repos/shadowsocks/shadowsocks-libev/releases/16011037",
+{
+  "url": "https://raw.githubusercontent.com/siriusfinex/api/master/ssmgr/ssmgr-tingy/auto-upgrade-task",
+  "data": 
+    "type": "text",
+    "id": "1",
+    "value": "0"
+    {
+      0,do not upgrade ssmgr-tiny;
+      1,upgrade ssmgr-tiny;
+    }
+}
