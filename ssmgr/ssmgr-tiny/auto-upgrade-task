@@ -4,8 +4,4 @@
     "type": "text",
     "id": "1",
     "value": "0"
-    {
-      0,do not upgrade ssmgr-tiny;
-      1,upgrade ssmgr-tiny;
-    }
 }
